@@ -1,0 +1,26 @@
+.figure__slider {
+	position: relative;
+	display: flex;
+	.figure__img {
+		width: 80vw;
+		position: relative;
+		display: inline-block;
+	}	
+}
+.figure--animation {
+	animation: 50s infinite normal slider;
+}
+
+@keyframes slider {
+	0% {left: 0%; }
+	10% {left: -80vw; }
+	20% {left: -160vw; }
+	30% {left: -240vw; }
+	40% {left: -320vw; }
+	50% {left: -400vw; }
+	60% {left: -480vw; }
+	70% {left: -560vw; }
+	80% {left: -640vw; }
+	90% {left: -720vw; }
+	100% {left: -800vw; }
+}

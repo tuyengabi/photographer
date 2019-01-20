@@ -1,0 +1,15 @@
+.aside-social {
+	z-index: 1;
+	display: flex;
+	flex-wrap: wrap;
+}
+.aside__icon {
+	color: $dg;
+	font-size: 4rem;
+	width:100%;
+	text-align: center;
+}
+.aside__icon:hover {
+	color: $beige;
+	font-size: 4.5rem;
+}

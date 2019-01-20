@@ -1,0 +1,27 @@
+.nav {
+	z-index: 1;
+}
+
+.nav__link {
+	
+	z-index: 1;
+	text-decoration: none;
+	font-size: 2rem;
+	color: $dg;
+}
+
+.nav__list {
+	z-index: 1;
+	text-align: center;
+	padding: 1rem;
+	list-style-type: none;
+	width: 100%;
+}
+
+.nav__list:hover {
+	background-color: $adg;
+}
+.nav__link:hover {
+	color: $w;
+	font-size: 3rem;
+}
