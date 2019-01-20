@@ -1,5 +1,5 @@
 .body-index {
-	background-color: $lg;
+	background-color: $w;
 	overflow: hidden;
 	width: 100vw;
 	height: 100vh;
@@ -7,4 +7,15 @@
 
 .img__logo {
 	z-index: 1;
+}
+.div__bar {
+	background-color: $alg;
+	z-index: 1; 
+	position: relative;
+	width: 20vw;
+	height: 100vh;
+}
+
+.div__prestation {
+	display: flex;
 }

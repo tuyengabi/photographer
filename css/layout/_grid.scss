@@ -5,6 +5,11 @@
 	grid-template-rows: 40% 25% 1fr;
 }
 
+.body-prestation {
+	display: grid;
+	grid-template-columns: 20% 1fr;
+	grid-template-rows: 40% 25% 1fr;
+}
 .img__logo {
 	grid-column: 1/ 2;
 	grid-row: 1/ 2;
@@ -18,6 +23,11 @@
 	grid-row: 3/ 4;
 }
 .div__slider {
+	grid-column: 2/ 3;
+	grid-row: 1/ 4;
+
+}
+.div__prestation {
 	grid-column: 2/ 3;
 	grid-row: 1/ 4;
 

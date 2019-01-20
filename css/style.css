@@ -12,13 +12,20 @@ html {
   color: #0d0d0d; }
 
 .body-index {
-  background-color: #e1dcf9;
+  background-color: white;
   overflow: hidden;
   width: 100vw;
   height: 100vh; }
 
 .img__logo {
   z-index: 1; }
+
+.div__bar {
+  background-color: rgba(224, 219, 249, 0.5);
+  z-index: 1;
+  position: relative;
+  width: 20vw;
+  height: 100vh; }
 
 .body-index {
   display: grid;
