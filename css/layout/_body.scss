@@ -1,12 +1,22 @@
 .body-index {
-	background-color: $w;
+	background-color: $lg;
 	overflow: hidden;
 	width: 100vw;
 	height: 100vh;
 }
 
+.body-prestation {
+	background-color: $lg;
+
+}
+
+.body-contact {
+	display: grid;
+}
+
 .img__logo {
 	z-index: 1;
+	width: 20vw;
 }
 .div__bar {
 	background-color: $alg;
@@ -16,6 +26,9 @@
 	height: 100vh;
 }
 
-.div__prestation {
-	display: flex;
+.prestation__img {
+	width: 30vw;
+}
+.img__contact {
+	width: 80vw;
 }
