@@ -33,6 +33,10 @@ html {
   position: relative;
   width: 20vw;
   height: 100vh; }
+  @media screen and (max-width: 750px) {
+    .div__bar {
+      width: 100vw;
+      height: 30vh; } }
 
 .prestation__img {
   width: 30vw; }
