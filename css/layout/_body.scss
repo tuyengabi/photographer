@@ -1,19 +1,10 @@
+/* START PAGE INDEX */
 .body-index {
 	background-color: $lg;
 	overflow: hidden;
 	width: 100vw;
 	height: 100vh;
 }
-
-.body-prestation {
-	background-color: $lg;
-
-}
-
-.body-contact {
-	display: grid;
-}
-
 .img__logo {
 	z-index: 1;
 	width: 20vw;
@@ -28,6 +19,18 @@
 		width: 100vw;
 		height: 30vh;
 	}
+}
+
+/* END PAGE INDEX */
+
+/* START PAGE PRESTATION */
+.body-prestation {
+	background-color: $lg;
+
+}
+
+.body-contact {
+	display: grid;
 }
 
 .prestation__img {
