@@ -1,8 +1,8 @@
-# EXERCISE SUR UN SITE D'APPLICATION
+# EXERCISE SUR UN SITE PHOTOGRAPHER
 
-HAPPY TO TRANSLATE (14/01/2018)
+In-focus Photography (14/01/2019)
 
-### Site d'application de traduction :
+### Site pour un photographer :
 
 ### Spécifications techniques:
 * CSS vanilla
